@@ -4,13 +4,11 @@ Statische portfolio-site — geen build-stap, geen dependencies. Open `index.htm
 
 ## Afbeeldingen toevoegen
 
-Er staan drie gestreepte placeholders in `index.html` (zoek op `img-placeholder`):
+Eén gestreepte placeholder resteert in `index.html` (zoek op `img-placeholder`):
 
-1. **Screenshot Judoshop** — case 1
-2. **Screenshot Wijnexpress** — case 2
-3. **Portretfoto Bas** — sectie "Over mij"
+1. **Screenshot Wijnexpress** — case 2
 
-Boven elke placeholder staat een commentaarregel met de `<img>`-tag die je ervoor in de plaats zet. Zet je afbeeldingen in een `img/`-map en verwijder de placeholder-div.
+Boven de placeholder staat een commentaarregel met de `<img>`-tag die je ervoor in de plaats zet. Zet de afbeelding in de `img/`-map en verwijder de placeholder-div.
 
 ## Aanpassen
 
