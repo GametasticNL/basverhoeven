@@ -2,13 +2,9 @@
 
 Statische portfolio-site — geen build-stap, geen dependencies. Open `index.html` in de browser of host de map op elke statische host (Vercel, Netlify, GitHub Pages).
 
-## Afbeeldingen toevoegen
+## Afbeeldingen
 
-Eén gestreepte placeholder resteert in `index.html` (zoek op `img-placeholder`):
-
-1. **Screenshot Wijnexpress** — case 2
-
-Boven de placeholder staat een commentaarregel met de `<img>`-tag die je ervoor in de plaats zet. Zet de afbeelding in de `img/`-map en verwijder de placeholder-div.
+Alle afbeeldingen staan in de `img/`-map: Judoshop-mockup (case 1), TCM Trader-mockup (case 2) en de portretfoto ("Over mij").
 
 ## Aanpassen
 
